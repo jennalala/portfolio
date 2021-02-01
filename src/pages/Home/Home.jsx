@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.css";
+import Jenna from "../../images/Jenna2.jpg"
 
 const Home = () => {
   return (
@@ -8,9 +9,9 @@ const Home = () => {
         <main className="row">
           <div className="col-sm-12">
             <div className="col-sm-12">
-              <h1 style={{ color: "white" }}>About Me</h1>
+              <h1 style={{ color: "black" }}>Jenna La Francois</h1>
               <img
-                // src={Jenna}
+                src={Jenna}
                 alt="Jenna La Francois"
               />
 

@@ -5,3 +5,21 @@
     text-align: center;
     font-family: "Andale Mono", monospace;
   }
+  p {
+    margin-top: 50px;
+    margin-right: 80px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    background: white;
+    max-width: 100%;
+    height: auto;
+    align-content: center;
+    font-family: "Andale Mono", monospace;
+  }
+
+  body {
+    background-image: url("../../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }

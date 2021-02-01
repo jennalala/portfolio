@@ -4,7 +4,7 @@ import "./NavBar.css";
 function Navbar() {
   return (
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="navbar">
-      <Link to="/" className="navbar-brand">
+      <Link to="/About" className="navbar-brand">
         Jenna La Francois
       </Link>
       <button

@@ -5,6 +5,7 @@ import Portfolio from "./pages/Portfolio/Portfolio";
 import Navbar from "./components/NavBar/NavBar";
 import Footer from "./components/Footer/Footer";
 
+
 function App() {
   return (
     <>
@@ -12,7 +13,7 @@ function App() {
         <Navbar />
         <Route exact path="/" component={Home} />
         <Route exact path="/Contact" component={Contact} />
-        <Route exact path="/Portfolio" component={Portfolio} />
+        <Route exact path="/Portfolio" component={Portfolio} /> 
         <Footer/>
       </Router>
     </>

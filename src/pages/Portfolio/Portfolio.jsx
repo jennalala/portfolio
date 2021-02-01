@@ -9,7 +9,7 @@ const Portfolio = () => {
             <div className="col-sm-12">
               <h1>Portfolio</h1>
               <div>
-                <p>Know Before Your Go</p>
+                <p>Know Before You Go</p>
                 <a
                   href="https://jennalala.github.io/know-before-you-go/"
                   rel="noreferrer noopener"

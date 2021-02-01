@@ -12,3 +12,10 @@ p {
     align-content: center;
     font-family: "Andale Mono", monospace;
   }
+
+  body {
+    background-image: url("../../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
