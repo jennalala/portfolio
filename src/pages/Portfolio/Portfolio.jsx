@@ -68,7 +68,13 @@ const Portfolio = () => {
                     <div>
                       <p>Workout Tracker</p>
                       <a
-                      
+                        href="https://hidden-meadow-74172.herokuapp.com/"
+                        rel="noreferrer noopener"
+                        target="_blank"
+                      >
+                        Deployed Site
+                      </a>
+                      <a
                         href="https://github.com/jennalala/NoSQLworkoutTracker"
                         rel="noreferrer noopener"
                         target="_blank"
