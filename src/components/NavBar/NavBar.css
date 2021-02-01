@@ -1,0 +1,14 @@
+.navbar-light .navbar-brand {
+    background: rgb(238, 198, 36);
+    color: rgb(222, 226, 3);
+    font-family: "Andale Mono", monospace;
+  }
+  
+  #navbar {
+  background-color: black;
+  
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: white;
+  }
